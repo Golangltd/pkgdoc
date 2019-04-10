@@ -8,7 +8,7 @@ go 标准库和部分第三方包的包文档中文翻译。
 
 # 在线预览
 
-- [Golang语言社区](http://doc.golang.ltd/)
+- [Golang语言社区](http://www.golang.ltd/)
 - [http://godoc.ml/](http://godoc.ml/)
 
 # JOIN US
